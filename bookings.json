@@ -1,0 +1,18 @@
+[
+  {
+    "lab": "108",
+    "day": "Monday",
+    "slot": "B",
+    "time_range": "09:00\u201311:00",
+    "teacher": "Mr. Mujtaba Ali",
+    "booked_at": "2026-04-28 16:48"
+  },
+  {
+    "lab": "109",
+    "day": "Monday",
+    "slot": "B",
+    "time_range": "09:00\u201311:00",
+    "teacher": "Mr. Ahmed",
+    "booked_at": "2026-04-28 16:49"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(streamlit run *)",
+      "Bash(where python *)",
+      "Bash(C:\\\\Program Files\\\\Python312\\\\python.exe *)",
+      "Bash(taskkill /F /IM \"streamlit.exe\")",
+      "Bash(taskkill /F /FI \"WINDOWTITLE eq streamlit*\")",
+      "Bash(exit 0)",
+      "Bash(taskkill /F /IM \"python.exe\" /FI \"WINDOWTITLE eq streamlit*\")",
+      "Bash(taskkill /F /FI \"COMMANDLINE eq *streamlit*app.py*\")"
+    ]
+  }
+}

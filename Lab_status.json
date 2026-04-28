@@ -1,0 +1,171 @@
+{
+  "last_updated": "Friday, April 10, 2026",
+  "time_slots": {
+    "B": "09:00-11:00",
+    "C": "11:00-13:00",
+    "D": "13:00-15:00",
+    "E": "15:00-17:00",
+    "F": "17:00-19:00",
+    "G": "19:00-21:00"
+  },
+  "day_patterns": {
+    "MWF": ["Monday", "Wednesday", "Friday"],
+    "TTS": ["Tuesday", "Thursday", "Saturday"]
+  },
+  "labs": {
+    "G01": {
+      "capacity": 24,
+      "schedule": {
+        "B": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "C": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "D": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "E": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "F": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "G": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" }
+      }
+    },
+    "G02": {
+      "capacity": 23,
+      "schedule": {
+        "B": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "C": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "D": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "E": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "F": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "G": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" }
+      }
+    },
+    "G03": {
+      "capacity": 24,
+      "schedule": {
+        "B": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "C": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "D": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "E": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "F": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "G": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" }
+      }
+    },
+    "101": {
+      "capacity": 18,
+      "schedule": {
+        "B": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "C": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "D": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "E": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "F": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" },
+        "G": { "MWF": "Reserved for Online Classes", "TTS": "Reserved for Online Classes" }
+      }
+    },
+    "102": {
+      "capacity": 18,
+      "schedule": {
+        "B": { "MWF": "Ms. Tooba Zeeshan", "TTS": "Ms. Tooba Zeeshan" },
+        "C": { "MWF": "Ms. Tooba Zeeshan", "TTS": "Ms. Tooba Zeeshan" },
+        "D": { "MWF": "NAVTTC Graphic Design (UI/UX)", "TTS": "NAVTTC Graphic Design (UI/UX)" },
+        "E": { "MWF": "NAVTTC Graphic Design (UI/UX)", "TTS": "NAVTTC Graphic Design (UI/UX)" },
+        "F": { "MWF": "UI/UX", "TTS": "UI/UX" },
+        "G": { "MWF": "NAVTTC 20", "TTS": "NAVTTC 20" }
+      }
+    },
+    "103": {
+      "capacity": 18,
+      "schedule": {
+        "B": { "MWF": "Mr. Muhammad Umar Khan", "TTS": "Mr. Muhammad Umar Khan" },
+        "C": { "MWF": "Mr. Muhammad Umar Khan", "TTS": "Mr. Muhammad Umar Khan" },
+        "D": { "MWF": "NAVTTC Mobile Application Development", "TTS": "NAVTTC Mobile Application Development" },
+        "E": { "MWF": "NAVTTC Mobile Application Development", "TTS": "NAVTTC Mobile Application Development" },
+        "F": { "MWF": "Mobile App Development", "TTS": "Mobile App Development" },
+        "G": { "MWF": "NAVTTC 30", "TTS": "NAVTTC 30" }
+      }
+    },
+    "104": {
+      "capacity": 24,
+      "schedule": {
+        "B": { "MWF": "Mr. Arbaz Ahmed", "TTS": "Mr. Arbaz Ahmed" },
+        "C": { "MWF": "Mr. Arbaz Ahmed", "TTS": "Mr. Arbaz Ahmed" },
+        "D": { "MWF": "Mr. Syed Muhammad Ali Farhan", "TTS": "Mr. Syed Muhammad Ali Farhan" },
+        "E": { "MWF": "Mr. Syed Muhammad Ali Farhan", "TTS": "Mr. Syed Muhammad Ali Farhan" },
+        "F": { "MWF": "NAVTTC Graphic Design (UI/UX)", "TTS": "NAVTTC Graphic Design (UI/UX)" },
+        "G": { "MWF": "NAVTTC Cyber Security (CEH)", "TTS": "NAVTTC Cyber Security (CEH)" }
+      }
+    },
+    "105": {
+      "capacity": 20,
+      "schedule": {
+        "B": { "MWF": "Ms. Shehzonia Fatima", "TTS": "Ms. Shehzonia Fatima" },
+        "C": { "MWF": "Ms. Shehzonia Fatima", "TTS": "Ms. Shehzonia Fatima" },
+        "D": { "MWF": "Ms. Faiqa Talib", "TTS": "Ms. Faiqa Talib" },
+        "E": { "MWF": "Ms. Faiqa Talib", "TTS": "Ms. Faiqa Talib" },
+        "F": { "MWF": "NAVTTC Mobile Application Development", "TTS": "NAVTTC Mobile Application Development" },
+        "G": { "MWF": "NAVTTC Graphic Design (UI/UX)", "TTS": "NAVTTC Graphic Design (UI/UX)" }
+      }
+    },
+    "106": {
+      "capacity": 20,
+      "schedule": {
+        "B": { "MWF": "Mr. Syed Hassan Ali", "TTS": "Mr. Syed Hassan Ali" },
+        "C": { "MWF": "Mr. Syed Hassan Ali", "TTS": "Mr. Syed Hassan Ali" },
+        "D": { "MWF": "Mr. Muhammad Rizwan Tahir", "TTS": "Mr. Muhammad Rizwan Tahir" },
+        "E": { "MWF": "Mr. Muhammad Rizwan Tahir", "TTS": "Mr. Muhammad Rizwan Tahir" },
+        "F": { "MWF": "NAVTTC Graphic Design (UI/UX)", "TTS": "NAVTTC Graphic Design (UI/UX)" },
+        "G": { "MWF": "NAVTTC Graphic Design (UI/UX)", "TTS": "NAVTTC Graphic Design (UI/UX)" }
+      }
+    },
+    "107": {
+      "capacity": 27,
+      "schedule": {
+        "B": { "MWF": "Mr. Mujtaba Ali", "TTS": "Mr. Mujtaba Ali" },
+        "C": { "MWF": "Mr. Mujtaba Ali", "TTS": "Mr. Mujtaba Ali" },
+        "D": { "MWF": "NAVTTC Mobile Application Development", "TTS": "NAVTTC Mobile Application Development" },
+        "E": { "MWF": "NAVTTC Mobile Application Development", "TTS": "NAVTTC Mobile Application Development" },
+        "F": { "MWF": "Mobile App Development", "TTS": "Mobile App Development" },
+        "G": { "MWF": "NAVTTC 30", "TTS": "NAVTTC 30" }
+      }
+    },
+    "108": {
+      "capacity": 17,
+      "schedule": {
+        "B": { "MWF": "FREE", "TTS": "FREE" },
+        "C": { "MWF": "FREE", "TTS": "FREE" },
+        "D": { "MWF": "FREE", "TTS": "FREE" },
+        "E": { "MWF": "FREE", "TTS": "FREE" },
+        "F": { "MWF": "FREE", "TTS": "FREE" },
+        "G": { "MWF": "FREE", "TTS": "FREE" }
+      }
+    },
+    "109": {
+      "capacity": 24,
+      "schedule": {
+        "B": { "MWF": "FREE", "TTS": "FREE" },
+        "C": { "MWF": "FREE", "TTS": "FREE" },
+        "D": { "MWF": "FREE", "TTS": "FREE" },
+        "E": { "MWF": "FREE", "TTS": "FREE" },
+        "F": { "MWF": "FREE", "TTS": "FREE" },
+        "G": { "MWF": "FREE", "TTS": "FREE" }
+      }
+    },
+    "110": {
+      "capacity": 15,
+      "schedule": {
+        "B": { "MWF": "FREE", "TTS": "FREE" },
+        "C": { "MWF": "FREE", "TTS": "FREE" },
+        "D": { "MWF": "FREE", "TTS": "FREE" },
+        "E": { "MWF": "FREE", "TTS": "FREE" },
+        "F": { "MWF": "FREE", "TTS": "FREE" },
+        "G": { "MWF": "FREE", "TTS": "FREE" }
+      }
+    },
+    "111": {
+      "capacity": 13,
+      "schedule": {
+        "B": { "MWF": "FREE", "TTS": "FREE" },
+        "C": { "MWF": "FREE", "TTS": "FREE" },
+        "D": { "MWF": "FREE", "TTS": "FREE" },
+        "E": { "MWF": "FREE", "TTS": "FREE" },
+        "F": { "MWF": "FREE", "TTS": "FREE" },
+        "G": { "MWF": "FREE", "TTS": "FREE" }
+      }
+    }
+  }
+}
