@@ -182,17 +182,11 @@ User message
 
 ---
 
-## Files Not to Modify
+## Files  to Modify
 
 - **`Lab_status.json`** — the live institute schedule. Any availability changes must be made by editing this file directly; all bookings should go through the booking system.
 
 ---
 
-## Troubleshooting
-
-| Problem | Fix |
-|---------|-----|
-| `GROQ_API_KEY is not set` | Create a `.env` file with your key (see Setup step 2) |
-| `ModuleNotFoundError` | Run `pip install -r requirements.txt` |
-| Bookings not showing | Ensure `bookings.json` exists in the same folder as `app.py` |
-| App does not open | Make sure port 8501 is free, or run `streamlit run app.py --server.port 8502` |
+## Video Link
+https://drive.google.com/drive/folders/1q4kSUke1-bOIfPDqoc36jjgEtPVOOD-5?usp=sharing
